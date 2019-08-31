@@ -4,3 +4,10 @@
 
  - functor 이해
  - flatMap 사용
+
+What is Monad ?? <br>
+ https://en.wikipedia.org/wiki/Monad_(functional_programming)
+
+
+* Monad and Functor
+ 
